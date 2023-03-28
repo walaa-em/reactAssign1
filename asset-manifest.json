@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactAssign1/static/css/main.d831344c.css",
+    "main.js": "/reactAssign1/static/js/main.ba4451ea.js",
+    "static/js/787.36f02712.chunk.js": "/reactAssign1/static/js/787.36f02712.chunk.js",
+    "static/media/fa-solid-900.ttf": "/reactAssign1/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/reactAssign1/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/reactAssign1/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/reactAssign1/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/reactAssign1/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/fa-regular-400.woff2": "/reactAssign1/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "/reactAssign1/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/reactAssign1/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/reactAssign1/index.html",
+    "main.d831344c.css.map": "/reactAssign1/static/css/main.d831344c.css.map",
+    "main.ba4451ea.js.map": "/reactAssign1/static/js/main.ba4451ea.js.map",
+    "787.36f02712.chunk.js.map": "/reactAssign1/static/js/787.36f02712.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d831344c.css",
+    "static/js/main.ba4451ea.js"
+  ]
+}
