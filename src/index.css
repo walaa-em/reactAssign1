@@ -1,0 +1,212 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/* general */
+
+h1 {
+  font-size: 64px;
+}
+
+h2 {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: center;
+}
+
+#portfolio h2,
+#portfolio i,
+#contact h2,
+#contact i {
+
+  color: #2c3e50;
+
+}
+
+.line {
+  width: 120px;
+  height: 5px;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+
+header .line,
+#about .line {
+  background-color: white;
+}
+
+#portfolio .line,
+#contact .line {
+
+  background-color: #2C3E50;
+}
+
+.btn {
+
+  cursor: pointer;
+  background-color: #1abc9c;
+  border-color: #1abc9c;
+  font-size: 20px;
+  color: white;
+}
+
+.btn:hover {
+  background-color: #159A80;
+  border-color: #1abc9c;
+  color: white;
+}
+
+#about p,
+footer .container p {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+/* navbar */
+
+.bg-nav {
+  background-color: #2C3E50;
+}
+
+.navbar-brand {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.nav-link {
+  color: white;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+/* header */
+
+header,
+#about {
+  background-color: #1ABC9C;
+  color: white;
+}
+
+header img {
+
+  width: 250px;
+  height: 300px;
+}
+
+
+header p {
+  font-size: 24px;
+}
+
+
+/* about */
+
+/* portfolio */
+
+.overlayer {
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: all 0.4s;
+
+}
+
+.overlayer:hover {
+  opacity: 1;
+  background-color: rgba(41, 177, 151, 0.9);
+  cursor: pointer;
+}
+
+/* contact */
+
+.form-control {
+  border: none;
+
+}
+
+label {
+  display: none;
+}
+
+.input-box {
+  border-bottom: 1px solid #e9ecef !important;
+}
+
+.input-box input,
+.input-box textarea {
+  font-size: 1.5em;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+#contact .container div {
+
+  width: 75%;
+  margin: auto;
+}
+
+
+/* footer */
+
+footer {
+
+  background-color: #2C3E50;
+  color: white;
+}
+
+/* social icons */
+
+.social-icons div {
+
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 1px solid white;
+  margin-right: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.5s;
+
+}
+
+.social-icons div:hover {
+
+  background-color: white;
+  color: #2C3E50;
+  cursor: pointer;
+}
+
+.copyrights {
+  background-color: #1A252F;
+
+}
+
+@media screen and (max-width: 1000px) {
+
+  h2 {
+    font-size: 36px;
+  }
+
+
+  #contact .container div {
+
+    width: 100%;
+  }
+
+}
