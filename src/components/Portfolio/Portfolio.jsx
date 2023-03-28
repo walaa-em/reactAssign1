@@ -47,7 +47,7 @@ export default class Portfolio extends Component {
                            </div>
 
                         <div>
-                              <img src="images/cabin.png" alt="" className='w-100 rounded-2'/>
+                              <img src="https://raw.githubusercontent.com/walaa-em/reactAssign1/main/public/images/cabin.png" alt="" className='w-100 rounded-2'/>
                         </div>
 
                         </div>
@@ -65,7 +65,7 @@ export default class Portfolio extends Component {
                            </div>
 
                         <div>
-                              <img src="images/cake.png" alt="" className='w-100 rounded-2'/>
+                              <img src="https://raw.githubusercontent.com/walaa-em/reactAssign1/main/public/images/cake.png" alt="" className='w-100 rounded-2'/>
                         </div>
 
                         </div>
@@ -83,7 +83,7 @@ export default class Portfolio extends Component {
                            </div>
 
                         <div>
-                              <img src="images/circus.png" alt="" className='w-100 rounded-2'/>
+                              <img src="https://raw.githubusercontent.com/walaa-em/reactAssign1/main/public/images/circus.png" alt="" className='w-100 rounded-2'/>
                         </div>
 
                         </div>
@@ -101,7 +101,7 @@ export default class Portfolio extends Component {
                            </div>
 
                         <div>
-                              <img src="images/game.png" alt="" className='w-100 rounded-2'/>
+                              <img src="https://raw.githubusercontent.com/walaa-em/reactAssign1/main/public/images/game.png" alt="" className='w-100 rounded-2'/>
                         </div>
 
                         </div>
@@ -119,7 +119,7 @@ export default class Portfolio extends Component {
                            </div>
 
                         <div>
-                              <img src="images/safe.png" alt="" className='w-100 rounded-2'/>
+                              <img src="https://raw.githubusercontent.com/walaa-em/reactAssign1/main/public/images/safe.png" alt="" className='w-100 rounded-2'/>
                         </div>
 
                         </div>
@@ -137,7 +137,7 @@ export default class Portfolio extends Component {
                            </div>
 
                         <div>
-                              <img src="images/submarine.png" alt="" className='w-100 rounded-2'/>
+                              <img src="https://raw.githubusercontent.com/walaa-em/reactAssign1/main/public/images/submarine.png" alt="" className='w-100 rounded-2'/>
                         </div>
 
                         </div>
