@@ -47,7 +47,7 @@ export default class Portfolio extends Component {
                   </div>
 
                   <div>
-                    <img src="images/cabin.png" alt="" className='w-100 rounded-2' />
+                    <img src="reactAssign1/images/cabin.png" alt="" className='w-100 rounded-2' />
                   </div>
 
                 </div>
@@ -65,7 +65,7 @@ export default class Portfolio extends Component {
                   </div>
 
                   <div>
-                    <img src="images/cake.png" alt="" className='w-100 rounded-2' />
+                    <img src="reactAssign1/images/cake.png" alt="" className='w-100 rounded-2' />
                   </div>
 
                 </div>
@@ -83,7 +83,7 @@ export default class Portfolio extends Component {
                   </div>
 
                   <div>
-                    <img src="images/circus.png" alt="" className='w-100 rounded-2' />
+                    <img src="reactAssign1/images/circus.png" alt="" className='w-100 rounded-2' />
                   </div>
 
                 </div>
@@ -101,7 +101,7 @@ export default class Portfolio extends Component {
                   </div>
 
                   <div>
-                    <img src="images/game.png" alt="" className='w-100 rounded-2' />
+                    <img src="reactAssign1/images/game.png" alt="" className='w-100 rounded-2' />
                   </div>
 
                 </div>
@@ -119,7 +119,7 @@ export default class Portfolio extends Component {
                   </div>
 
                   <div>
-                    <img src="images/safe.png" alt="" className='w-100 rounded-2' />
+                    <img src="reactAssign1/images/safe.png" alt="" className='w-100 rounded-2' />
                   </div>
 
                 </div>
@@ -137,7 +137,7 @@ export default class Portfolio extends Component {
                   </div>
 
                   <div>
-                    <img src="images/submarine.png" alt="" className='w-100 rounded-2' />
+                    <img src="reactAssign1/images/submarine.png" alt="" className='w-100 rounded-2' />
                   </div>
 
                 </div>
@@ -185,7 +185,7 @@ export default class Portfolio extends Component {
 
 
 
-                  <img src="images/cabin.png" alt="" className='w-50' id='modalImage' />
+                  <img src="reactAssign1/images/cabin.png" alt="" className='w-50' id='modalImage' />
 
 
 
@@ -226,7 +226,7 @@ export default class Portfolio extends Component {
 
 
 
-                  <img src="images/cake.png" alt="" className='w-50' id='modalImage' />
+                  <img src="reactAssign1/images/cake.png" alt="" className='w-50' id='modalImage' />
 
 
 
@@ -266,7 +266,7 @@ export default class Portfolio extends Component {
 
 
 
-                  <img src="images/circus.png" alt="" className='w-50' id='modalImage' />
+                  <img src="reactAssign1/images/circus.png" alt="" className='w-50' id='modalImage' />
 
 
 
@@ -306,7 +306,7 @@ export default class Portfolio extends Component {
 
 
 
-                  <img src="images/game.png" alt="" className='w-50' id='modalImage' />
+                  <img src="reactAssign1/images/game.png" alt="" className='w-50' id='modalImage' />
 
 
 
@@ -346,7 +346,7 @@ export default class Portfolio extends Component {
 
 
 
-                  <img src="images/safe.png" alt="" className='w-50' id='modalImage' />
+                  <img src="reactAssign1/images/safe.png" alt="" className='w-50' id='modalImage' />
 
 
 
@@ -382,7 +382,7 @@ export default class Portfolio extends Component {
 
 
 
-                  <img src="images/submarine.png" alt="" className='w-50' id='modalImage' />
+                  <img src="reactAssign1/images/submarine.png" alt="" className='w-50' id='modalImage' />
 
 
 
