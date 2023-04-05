@@ -47,7 +47,7 @@ export default class Portfolio extends Component {
                            </div>
 
                         <div>
-                              <img src="https://raw.githubusercontent.com/walaa-em/reactAssign1/main/public/images/cabin.png" alt="" className='w-100 rounded-2'/>
+                              <img src="/reactAssign1/images/cabin.png" alt="" className='w-100 rounded-2'/>
                         </div>
 
                         </div>
