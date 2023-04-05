@@ -118,9 +118,9 @@ export default class Portfolio extends Component {
 
                   </div>
 
-                  <div>
-                    <img src="reactAssign1/images/safe.png" alt="" className='w-100 rounded-2' />
-                  </div>
+                        <div>
+                    <img src="reactAssign1/images/safe.png" alt="" className='w-100 rounded-2'/>
+                        </div>
 
                 </div>
 
