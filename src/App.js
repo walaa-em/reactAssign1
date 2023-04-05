@@ -21,7 +21,7 @@ let routes = createBrowserRouter(
       { path: 'portfolio', element: <> <Portfolio /> </> },
       { path: 'contact', element: <> <Contact /> </> },
       { path: '*', element: <div className='vh-100 d-flex bg-info justify-content-center align-items-center'><h1>Not Found 404</h1></div> },
-      { path: 'reactAssign1', element: <> <Header /> </> },
+      { path: 'startreact-v2', element: <> <Header /> </> },
 
     ]}
   

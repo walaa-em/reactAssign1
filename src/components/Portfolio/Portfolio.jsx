@@ -3,15 +3,15 @@ import React, { Component } from 'react'
 export default class Portfolio extends Component {
 
 
-//   changeModal = (text , imagePath ) => {
+  //   changeModal = (text , imagePath ) => {
 
-//   document.getElementById('#portfolioModal1Label').innerHTML = text;
+  //   document.getElementById('#portfolioModal1Label').innerHTML = text;
 
-//   document.getElementById('#modalImage').setAttribute('src' , imagePath)
+  //   document.getElementById('#modalImage').setAttribute('src' , imagePath)
 
 
 
-// }
+  // }
 
   render() {
 
@@ -22,111 +22,111 @@ export default class Portfolio extends Component {
 
         <section id='portfolio' className='py-5'>
 
-                
-                <div className="container">
 
-                  <h2>PORTFOLIO</h2>
+          <div className="container">
 
-                  <div className='text-center py-3'>
+            <h2>PORTFOLIO</h2>
+
+            <div className='text-center py-3'>
               <span className='line'></span>
               <i className="fa-solid fa-star fs-2"></i>
               <span className='line'></span>
-                  </div>
+            </div>
 
 
-                   <div className="row g-5">
- 
-                      <div className="col-md-6 col-lg-4">
+            <div className="row g-5">
 
-                        <div className='position-relative '>
+              <div className="col-md-6 col-lg-4">
+
+                <div className='position-relative '>
 
                   <div className='overlayer position-absolute top-0 left-0 d-flex justify-content-center align-items-center rounded-2' data-bs-toggle="modal" data-bs-target="#exampleModal">
 
                     <i className="fa-solid fa-plus fa-4x text-white"></i>
 
-                           </div>
+                  </div>
 
-                        <div>
-                              <img src="images/cabin.png" alt="" className='w-100 rounded-2'/>
-                        </div>
+                  <div>
+                    <img src="/startreact-v2/images/cabin.png" alt="" className='w-100 rounded-2' />
+                  </div>
 
-                        </div>
+                </div>
 
-                      </div>
+              </div>
 
-                      <div className="col-md-6 col-lg-4">
+              <div className="col-md-6 col-lg-4">
 
-                        <div className='position-relative '>
+                <div className='position-relative '>
 
                   <div className='overlayer position-absolute top-0 left-0 d-flex justify-content-center align-items-center rounded-2' data-bs-toggle="modal" data-bs-target="#exampleModal2">
 
                     <i className="fa-solid fa-plus fa-4x text-white"></i>
 
-                           </div>
+                  </div>
 
-                        <div>
-                              <img src="images/cake.png" alt="" className='w-100 rounded-2'/>
-                        </div>
+                  <div>
+                    <img src="/startreact-v2/images/cake.png" alt="" className='w-100 rounded-2' />
+                  </div>
 
-                        </div>
+                </div>
 
-                      </div>
+              </div>
 
-                      <div className="col-md-6 col-lg-4">
+              <div className="col-md-6 col-lg-4">
 
-                        <div className='position-relative '>
+                <div className='position-relative '>
 
                   <div className='overlayer position-absolute top-0 left-0 d-flex justify-content-center align-items-center rounded-2' data-bs-toggle="modal" data-bs-target="#exampleModal3">
 
                     <i className="fa-solid fa-plus fa-4x text-white"></i>
 
-                           </div>
+                  </div>
 
-                        <div>
-                              <img src="images/circus.png" alt="" className='w-100 rounded-2'/>
-                        </div>
+                  <div>
+                    <img src="/startreact-v2/images/circus.png" alt="" className='w-100 rounded-2' />
+                  </div>
 
-                        </div>
+                </div>
 
-                      </div>
+              </div>
 
-                      <div className="col-md-6 col-lg-4">
+              <div className="col-md-6 col-lg-4">
 
-                        <div className='position-relative '>
+                <div className='position-relative '>
 
                   <div className='overlayer position-absolute top-0 left-0 d-flex justify-content-center align-items-center rounded-2' data-bs-toggle="modal" data-bs-target="#exampleModal4">
 
                     <i className="fa-solid fa-plus fa-4x text-white"></i>
 
-                           </div>
+                  </div>
 
-                        <div>
-                              <img src="images/game.png" alt="" className='w-100 rounded-2'/>
-                        </div>
+                  <div>
+                    <img src="/startreact-v2/images/game.png" alt="" className='w-100 rounded-2' />
+                  </div>
 
-                        </div>
+                </div>
 
-                      </div>
+              </div>
 
-                      <div className="col-md-6 col-lg-4">
+              <div className="col-md-6 col-lg-4">
 
-                        <div className='position-relative '>
+                <div className='position-relative '>
 
                   <div className='overlayer position-absolute top-0 left-0 d-flex justify-content-center align-items-center rounded-2' data-bs-toggle="modal" data-bs-target="#exampleModal5">
 
                     <i className="fa-solid fa-plus fa-4x text-white"></i>
 
-                           </div>
+                  </div>
 
-                        <div>
-                              <img src="images/safe.png" alt="" className='w-100 rounded-2'/>
-                        </div>
+                  <div>
+                    <img src="/startreact-v2/images/safe.png" alt="" className='w-100 rounded-2' />
+                  </div>
 
-                        </div>
+                </div>
 
-                      </div>
+              </div>
 
-                      <div className="col-md-6 col-lg-4">
+              <div className="col-md-6 col-lg-4">
 
                 <div className='position-relative'>
 
@@ -134,19 +134,19 @@ export default class Portfolio extends Component {
 
                     <i className="fa-solid fa-plus fa-4x text-white"></i>
 
-                           </div>
+                  </div>
 
-                        <div>
-                              <img src="images/submarine.png" alt="" className='w-100 rounded-2'/>
-                        </div>
-
-                        </div>
-
-                      </div>
-
-                   </div>
+                  <div>
+                    <img src="/startreact-v2/images/submarine.png" alt="" className='w-100 rounded-2' />
+                  </div>
 
                 </div>
+
+              </div>
+
+            </div>
+
+          </div>
 
 
 
@@ -168,7 +168,7 @@ export default class Portfolio extends Component {
           <div className="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div className="modal-dialog modal-xl">
               <div className="modal-content">
-                
+
                 <div className="modal-body text-center">
 
 
@@ -185,17 +185,17 @@ export default class Portfolio extends Component {
 
 
 
-                  <img src="images/cabin.png" alt="" className='w-50' id='modalImage'/>
+                  <img src="/startreact-v2/images/cabin.png" alt="" className='w-50' id='modalImage' />
 
 
 
                   <p className='py-3'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
 
                   <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">
-                    
+
                     <i className="fa-solid fa-xmark text-white pe-2"></i>Close Window
-                    
-                    </button>
+
+                  </button>
                 </div>
 
 
@@ -226,7 +226,7 @@ export default class Portfolio extends Component {
 
 
 
-                  <img src="images/cake.png" alt="" className='w-50' id='modalImage' />
+                  <img src="/startreact-v2/images/cake.png" alt="" className='w-50' id='modalImage' />
 
 
 
@@ -266,7 +266,7 @@ export default class Portfolio extends Component {
 
 
 
-                  <img src="images/circus.png" alt="" className='w-50' id='modalImage' />
+                  <img src="/startreact-v2/images/circus.png" alt="" className='w-50' id='modalImage' />
 
 
 
@@ -306,7 +306,7 @@ export default class Portfolio extends Component {
 
 
 
-                  <img src="images/game.png" alt="" className='w-50' id='modalImage' />
+                  <img src="/startreact-v2/images/game.png" alt="" className='w-50' id='modalImage' />
 
 
 
@@ -346,7 +346,7 @@ export default class Portfolio extends Component {
 
 
 
-                  <img src="images/safe.png" alt="" className='w-50' id='modalImage' />
+                  <img src="/startreact-v2/images/safe.png" alt="" className='w-50' id='modalImage' />
 
 
 
@@ -382,7 +382,7 @@ export default class Portfolio extends Component {
 
 
 
-                  <img src="images/submarine.png" alt="" className='w-50' id='modalImage' />
+                  <img src="/startreact-v2/images/submarine.png" alt="" className='w-50' id='modalImage' />
 
 
 
@@ -404,7 +404,7 @@ export default class Portfolio extends Component {
 
 
         </section>
-        
+
       </>
     )
   }

@@ -7,7 +7,7 @@ export default class Header extends Component {
     return (
       <>
         <header className='text-center py-2 vh-100'>
-          <img src="/reactAssign1/images/avataaars.svg" alt=""></img>
+          <img src="/startreact-v2/images/avataaars.svg" alt=""></img>
           <h1>START REACT</h1>
           <div className='py-3'>
             <span className='line'></span>
